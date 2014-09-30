@@ -4,7 +4,7 @@
   resources: 2
 ---
 
-# Apple Picker
+# Apple Collector
 
 ## Instructions
 
