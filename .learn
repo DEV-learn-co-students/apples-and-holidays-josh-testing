@@ -1,6 +1,5 @@
 ---
 languages:
-- todo
 - collect
 - select
 - hashes
@@ -8,6 +7,7 @@ languages:
 - collect
 - map
 tags:
+- todo
 - collect
 - select
 - hashes
