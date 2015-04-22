@@ -1,11 +1,16 @@
-tags:
-  - todo
-  - collect
-  - select
-  - hashes
-  - iteration
-  - collect
-  - map
+---
 languages:
-  - ruby
-resources: 2
+- todo
+- collect
+- select
+- hashes
+- iteration
+- collect
+- map
+tags:
+- collect
+- select
+- hashes
+- iteration
+- collect
+- map
